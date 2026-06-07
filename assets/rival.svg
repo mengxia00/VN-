@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="1100" viewBox="0 0 760 1100" role="img" aria-label="anime rival placeholder">
+  <defs>
+    <linearGradient id="hair2" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#ffca6a"/>
+      <stop offset=".55" stop-color="#ff75d8"/>
+      <stop offset="1" stop-color="#7536ff"/>
+    </linearGradient>
+    <linearGradient id="suit" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#301b46"/>
+      <stop offset="1" stop-color="#07101f"/>
+    </linearGradient>
+    <filter id="soft2" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="22" stdDeviation="22" flood-color="#000000" flood-opacity=".36"/>
+    </filter>
+  </defs>
+  <g filter="url(#soft2)">
+    <path d="M245 149c62-66 202-78 271 3 61 72 48 166 109 255 70 102 45 257-64 306-99 45-346 44-432-13-84-56-91-199-29-286 68-96 58-222 145-265Z" fill="url(#hair2)"/>
+    <path d="M216 574c58-69 263-67 329 2 58 60 87 244 84 391H132c2-152 37-330 84-393Z" fill="url(#suit)"/>
+    <path d="M298 499h166v116c0 48-36 87-82 87s-82-39-82-87V499Z" fill="#ffd8bf"/>
+    <ellipse cx="383" cy="359" rx="151" ry="177" fill="#ffe1cc"/>
+    <path d="M232 333c77-112 194-154 336-69 17 61 7 125-23 182-24-123-101-177-216-201-33 75-78 122-97 88Z" fill="url(#hair2)"/>
+    <path d="M295 383c20-25 54-25 75-2" fill="none" stroke="#402136" stroke-width="10" stroke-linecap="round"/>
+    <path d="M430 381c21-23 55-21 74 4" fill="none" stroke="#402136" stroke-width="10" stroke-linecap="round"/>
+    <ellipse cx="337" cy="414" rx="16" ry="23" fill="#401d39"/>
+    <ellipse cx="465" cy="414" rx="16" ry="23" fill="#401d39"/>
+    <path d="M350 488c26 16 61 16 86 0" fill="none" stroke="#b73562" stroke-width="8" stroke-linecap="round"/>
+    <path d="M309 682l75 89 75-89 39 285H270l39-285Z" fill="#63e7ff" opacity=".88"/>
+    <path d="M220 674c47 64 113 105 159 107l-112 186H146c3-82 35-253 74-293Z" fill="#1b2849"/>
+    <path d="M550 674c-47 64-113 105-159 107l112 186h121c-3-82-35-253-74-293Z" fill="#1b2849"/>
+  </g>
+</svg>
